@@ -5,7 +5,7 @@ Building a movie/show recommendation system using an API is a popular and intere
 Go to the TMDb website (https://www.themoviedb.org/) and sign up for an account. After signing up, you can create an API key to access TMDb's data.
 
 **Step 2: Fetch Movie Data:**
-Use the TMDb API to fetch movie and TV show data. You can retrieve information such as movie titles, genres, cast, and user ratings.
+Use the TMDb API to fetch movie and Tvv show data. You can retrieve information such as movie titles, genres, cast, and user ratings.
 
 **Step 3: Data Preprocessing:**
 Clean and preprocess the fetched data. Remove duplicates, handle missing values, and organize the data into a format suitable for modeling.
